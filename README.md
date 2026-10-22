@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3D Developer Portfolio
 
 A minimalist, dark-first portfolio built with **React + Vite**, **Material UI**, **Three.js (React Three Fiber + Drei)**, **Framer Motion** and **Lucide** icons.
@@ -68,3 +69,6 @@ src/
   theme/       theme.js
   App.jsx  main.jsx  index.css
 ```
+=======
+# portfolio
+>>>>>>> 527993bf09461eed18873946f688b0979e0b1b1a
